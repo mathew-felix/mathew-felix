@@ -2,7 +2,7 @@
 
 # Felix Mathew
 
-**ML Engineer · AI Engineer · Software Engineer**
+**ML Engineer · AI Engineer **
 
 MS Computer Science — Texas State University (Thesis, Apr 2026) · GPA 3.5/4.0
 San Marcos, TX · F-1 OPT · STEM Extension Eligible
